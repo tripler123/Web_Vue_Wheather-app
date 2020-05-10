@@ -1,10 +1,13 @@
 # WHEATHER APP
 This application allows you to check the weather by city from the [Open Wheather API](https://openweathermap.org)
 
-### DEMO
+### DEMO - https://admiring-almeida-cf0a0c.netlify.app/
 
+#### No Information Interface
 ![](img/no-information.png)
+#### Cold city Interface
 ![](img/Cold.png)
+#### Warm city Interface
 ![](img/Warm.png)
 
 ### LICENSE
